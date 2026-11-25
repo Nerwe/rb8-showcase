@@ -1,0 +1,21 @@
+RB8 Proprietary Software Notice
+
+Copyright (c) 2026, Yar (Nerwe). All rights reserved.
+
+Limited Evaluation Permission:
+You are granted a limited, non-exclusive, non-transferable, revocable permission
+to download and run the RB8 evaluation binaries solely for internal,
+non-commercial testing and benchmarking.
+
+Restrictions:
+Outside the limited evaluation permission above, no license is granted. You may
+not use RB8 in production or commercial services, redistribute it, or reverse
+engineer, decompile, or disassemble the binaries (except where permitted by
+applicable law). Production, redistribution, or acquisition rights require a
+separate written agreement with the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+This notice applies to first-party RB8 material distributed under these terms.
+Third-party components and materials are governed by their applicable terms.
+See accompanying notices and any license files provided with them.
